@@ -1,2 +1,3 @@
 # XakrexnegFfezbixic
-オエル資料輯纂
+
+Xakrexneg Ƣeznē'ic - オエル資料輯纂
