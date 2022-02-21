@@ -1,0 +1,167 @@
+<svg width="1282" height="722" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+  overflow="hidden">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="-1" y="-1" width="1282" height="722" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect x="213" y="487" width="370" height="203" />
+    </clipPath>
+    <clipPath id="clip2">
+      <rect x="213" y="487" width="370" height="203" />
+    </clipPath>
+    <clipPath id="clip3">
+      <rect x="858" y="487" width="370" height="203" />
+    </clipPath>
+    <clipPath id="clip4">
+      <rect x="858" y="487" width="370" height="203" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="translate(1 1)">
+    <rect x="0" y="0" width="1280" height="720" fill="#FFFFFF" />
+    <path
+      d="M537.5 76.1674C537.5 59.7826 550.783 46.5001 567.167 46.5001L1224.83 46.5001C1241.22 46.5001 1254.5 59.7826 1254.5 76.1674L1254.5 194.833C1254.5 211.218 1241.22 224.5 1224.83 224.5L567.167 224.5C550.783 224.5 537.5 211.218 537.5 194.833Z"
+      stroke="#876917" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFD5" fill-rule="evenodd" /><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(555.142 84)">能動文</text>
+    <path d="M971.5 288 1006 288 1006 249.5 1075 249.5 1075 288 1109.5 288 1040.5 326.5Z" stroke="#876917"
+      stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFD5" fill-rule="evenodd" /><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500" font-size="24"
+      transform="translate(505.11 283)">事象を起こす意志が、事象外部の者にある<tspan font-size="24" x="-180" y="29">(</tspan>あるいは<tspan
+        font-size="24" x="-48" y="29">そのような意志が存在していない</tspan>:一般的性質)</text>
+    <path d="M572.9 114.386 916.823 114.386 916.823 153.315 572.9 153.315Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M572.9 153.315 916.823 153.315 916.823 192.244 572.9 192.244Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M916.823 113.719 916.823 192.911" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M572.234 153.315 1218.54 153.315" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M572.9 113.719 572.9 192.911" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M1217.87 113.719 1217.87 192.911" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M572.234 114.386 1218.54 114.386" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M572.234 192.244 1218.54 192.244" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" /><text fill="#FFFFFF"
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(621.701 143)">自動詞<tspan font-weight="500" font-size="24" x="84" y="0">(</tspan>
+      <tspan font-weight="500" font-size="24" x="96" y="0">中動態相当</tspan>
+      <tspan font-weight="500" font-size="24" x="216" y="0">)</tspan>
+      <tspan fill="#000000" font-size="24" x="385.647" y="0">被動者</tspan>
+      <tspan fill="#000000" font-weight="500" font-size="24" x="457.647" y="0">のみ</tspan>
+    </text>
+    <path d="M1007.68 144.85 1079.68 144.85 1079.68 145.85 1007.68 145.85Z" fill-rule="evenodd" /><text fill="#FFFFFF"
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(621.701 182)">他動詞<tspan fill="#000000" font-weight="500" font-size="24" x="361.647" y="0">被動者
+      </tspan>
+      <tspan fill="#000000" font-weight="500" font-size="24" x="433.647" y="0">, </tspan>
+      <tspan fill="#000000" font-size="24" x="457.647" y="0">動作主</tspan>
+    </text>
+    <path d="M1079.68 183.779 1151.68 183.779 1151.68 184.779 1079.68 184.779Z" fill-rule="evenodd" />
+    <path
+      d="M44.5001 494.001C44.5001 473.842 60.842 457.5 81.0009 457.5L571.999 457.5C592.158 457.5 608.5 473.842 608.5 494.001L608.5 639.999C608.5 660.158 592.158 676.5 571.999 676.5L81.0009 676.5C60.842 676.5 44.5001 660.158 44.5001 639.999Z"
+      stroke="#876917" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFD5" fill-rule="evenodd" /><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(63.9175 498)">受動文（受動態受動用法）</text>
+    <path d="M69.1334 529.959 213.289 529.959 213.289 568.888 69.1334 568.888Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M69.1334 568.888 213.289 568.888 213.289 607.817 69.1334 607.817Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M213.289 529.292 213.289 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M68.4668 568.888 583.043 568.888" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M69.1334 529.292 69.1334 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M582.377 529.292 582.377 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M68.4668 529.959 583.043 529.959" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M68.4668 607.817 583.043 607.817" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" /><text fill="#FFFFFF"
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(105.211 558)">自動詞<tspan fill="#000000" font-size="24" x="166.622" y="2">被動者</tspan>
+      <tspan fill="#000000" font-weight="500" font-size="24" x="250.622" y="2">＋</tspan>
+      <tspan fill="#000000" font-weight="500" font-size="24" x="274.622" y="2">意志の所在者</tspan>
+    </text>
+    <path d="M272.166 562.424 344.166 562.424 344.166 563.424 272.166 563.424Z" fill-rule="evenodd" /><text
+      fill="#FFFFFF" font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700"
+      font-size="24" transform="translate(105.211 597)">他動詞</text>
+    <g clip-path="url(#clip1)"><text font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif"
+        font-weight="500" font-size="24" transform="translate(223.833 599)">被動者</text></g><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500" font-size="24"
+      transform="translate(295.833 599)">, <tspan font-weight="700" font-size="24" x="24" y="0">動作主</tspan></text>
+    <g clip-path="url(#clip2)"><text font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif"
+        font-weight="500" font-size="24" transform="translate(403.833 599)">＋意志の所在者</text></g>
+    <path d="M320.166 601.353 392.166 601.353 392.166 602.353 320.166 602.353Z" fill-rule="evenodd" />
+    <path
+      d="M689.5 494.001C689.5 473.842 705.842 457.5 726.001 457.5L1217 457.5C1237.16 457.5 1253.5 473.842 1253.5 494.001L1253.5 639.999C1253.5 660.158 1237.16 676.5 1217 676.5L726.001 676.5C705.842 676.5 689.5 660.158 689.5 639.999Z"
+      stroke="#876917" stroke-width="1.33333" stroke-miterlimit="8" fill="#FFFFD5" fill-rule="evenodd" /><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(708.888 498)">使役文（受動態使役用法）</text>
+    <path d="M714.104 529.959 858.26 529.959 858.26 568.888 714.104 568.888Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M714.104 568.888 858.26 568.888 858.26 607.817 714.104 607.817Z" fill="#876917" fill-rule="evenodd" />
+    <path d="M858.26 529.292 858.26 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M713.438 568.888 1228.01 568.888" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M714.104 529.292 714.104 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M1227.35 529.292 1227.35 608.484" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M713.438 529.959 1228.01 529.959" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" />
+    <path d="M713.438 607.817 1228.01 607.817" stroke="#876917" stroke-width="1.33333" stroke-linejoin="round"
+      stroke-miterlimit="10" fill="none" fill-rule="evenodd" /><text fill="#FFFFFF"
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(750.182 558)">自動詞<tspan fill="#000000" font-weight="500" font-size="24" x="166.622" y="2">被動者
+      </tspan>
+      <tspan fill="#000000" font-weight="500" font-size="24" x="250.622" y="2">＋</tspan>
+      <tspan fill="#000000" font-size="24" x="274.622" y="2">意志の所在者</tspan>
+    </text>
+    <path d="M1025.14 562.424 1097.14 562.424 1169.14 562.424 1169.14 563.424 1097.14 563.424 1025.14 563.424Z"
+      fill-rule="evenodd" /><text fill="#FFFFFF"
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="700" font-size="24"
+      transform="translate(750.182 597)">他動詞</text>
+    <g clip-path="url(#clip3)"><text font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif"
+        font-weight="500" font-size="24" transform="translate(868.804 599)">被動者</text></g><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500" font-size="24"
+      transform="translate(940.804 599)">, 動作主<tspan font-size="24" x="108" y="0">＋</tspan></text>
+    <g clip-path="url(#clip4)"><text font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif"
+        font-weight="700" font-size="24" transform="translate(1072.8 599)">意志の所在者</text></g>
+    <path d="M1073.14 601.353 1145.14 601.353 1217.14 601.353 1217.14 602.353 1145.14 602.353 1073.14 602.353Z"
+      fill-rule="evenodd" />
+    <path
+      d="M44.0001 427.013C44.0001 406.023 46.8362 389.007 50.3346 389.007L1035.43 389.007C1038.93 389.007 1041.76 371.991 1041.76 351 1041.76 371.991 1044.6 389.007 1048.1 389.007L1246.67 389.007C1250.16 389.007 1253 406.023 1253 427.013"
+      stroke="#876917" stroke-width="4" stroke-miterlimit="8" fill="none" fill-rule="evenodd" />
+    <path
+      d="M612.725 525.232 683.275 525.232 683.275 540.355 612.725 540.355ZM612.725 551.645 683.275 551.645 683.275 566.768 612.725 566.768Z"
+      fill="#876917" fill-rule="evenodd" /><text
+      font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500" font-size="24"
+      writing-mode="tb-rl" transform="translate(639.875 574)" x="9.11719" y="2.88281">項は同じ</text><text
+      font-family="Arial,Arial_MSFontService,sans-serif" font-weight="400" font-size="24"
+      transform="translate(53.2578 96)">•<tspan
+        font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500" font-size="24"
+        x="30" y="0">それぞれ</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="126" y="0">の</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="150" y="0">態の自他動詞における項を</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="30" y="29">示した。</tspan>
+      <tspan font-size="24" x="0" y="58">•</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="30" y="58">太字・下線で示した項が、</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="30" y="87">主語（人称・数で動詞と呼応する項）。</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="231.519" y="556">主語項は元の能動文と同じ</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="876.49" y="556">主語項は</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="972.49" y="556">〈</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="996.49" y="556">意志の所在者</tspan>
+      <tspan font-family="BIZ UDMincho Medium,BIZ UDMincho Medium_MSFontService,sans-serif" font-weight="500"
+        font-size="24" x="1140.49" y="556">〉</tspan>
+    </text>
+  </g>
+</svg>
