@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <style>
+    <![CDATA[ @import url(https://fonts.googleapis.com); ]]>
+    <![CDATA[ @import url(https://fonts.gstatic.com); ]]>
+    <![CDATA[ @import url(https://fonts.googleapis.com/css2?family=Yuji+Syuku&display=swap); ]]>
+
+    .text {
+      font-size: 45px;
+      text-anchor: middle;
+      fill: #2e9972; /* 翡翠色 */
+      stroke: #000;
+      stroke-width: 0.25;
+    }
+    .yuji-syuku {
+      font-family: 'Yuji Syuku', serif;
+    }
+  </style>
+  <text
+    x="50" y="42"
+    class="text yuji-syuku"
+  >造語</text>
+  <text
+    x="50" y="90"
+    class="text yuji-syuku"
+    transform="scale(1.25, 1)"
+    transform-origin="50"
+  >済</text>
+</svg>
